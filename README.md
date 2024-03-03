@@ -40,6 +40,6 @@ while True:
 ### Client:
 ![image](https://github.com/Gokkul-M/2a_Stop_and_Wait_Protocol/assets/144870543/e01ebcd4-38a0-4eff-94c0-b7039fc4e509)
 ### Server:
-![image](https://github.com/Gokkul-M/2a_Stop_and_Wait_Protocol/assets/144870543/d47049fd-e931-4043-9df5-7b77b0763f30)
+![image](https://github.com/Gokkul-M/2a_Stop_and_Wait_Protocol/assets/144870543/ed91706c-9319-4546-a4b5-b7a6a6493571)
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed.
